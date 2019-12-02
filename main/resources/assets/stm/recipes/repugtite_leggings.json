@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "stm:repugtite_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "stm:repugtite_leggings",
+        "count": 1
+    }
+}

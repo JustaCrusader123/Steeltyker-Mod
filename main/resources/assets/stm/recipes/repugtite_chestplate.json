@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "stm:repugtite_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "stm:repugtite_chestplate",
+        "count": 1
+    }
+}

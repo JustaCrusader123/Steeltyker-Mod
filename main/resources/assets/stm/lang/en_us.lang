@@ -1,0 +1,31 @@
+
+//Items
+item.repugtite_ingot.name=Repugtite Ingot
+item.chaos_shard.name=Fragment of Chaos
+item.chlorophlyte_ingot.name=Chlorophlyte Ingot
+
+//Blocks
+tile.repugtite_block.name=Block of Repugtite
+tile.repugtite_ore.name=Repugtite Ore
+
+//Tools
+item.repugtite_sword.name=Repugtite Sword
+item.repugtite_shovel.name=Repugtite Shovel
+item.repugtite_pickaxe.name=Repugtite Pickaxe
+item.repugtite_axe.name=Repugtite Axe
+item.reaper_of_chaos.name=Reaper of Chaos
+item.hunter_dagger.name=Hunter's Dagger
+item.cobalt_sword.name=Cobalt Sword
+
+//Armour
+item.repugtite_helmet.name=Repugtite Helmet
+item.repugtite_chestplate.name=Repugtite Chestplate
+item.repugtite_leggings.name=Repugtite Leggings
+item.repugtite_boots.name=Repugtite Boots
+
+//Food
+item.momma_soup.name=Momma's Soup
+item.rainbow_trout.name=Rainbow Trout
+
+//Tabs
+itemGroup.steeltykertab=Steeltyker's Mod

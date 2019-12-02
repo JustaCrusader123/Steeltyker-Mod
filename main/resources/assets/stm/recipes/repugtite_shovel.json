@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " R ",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "stm:repugtite_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "stm:repugtite_shovel",
+        "count": 1
+    }
+}
