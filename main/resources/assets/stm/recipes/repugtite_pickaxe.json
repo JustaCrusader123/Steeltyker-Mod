@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "stm:repugtite_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "stm:repugtite_pickaxe",
+        "count": 1
+    }
+}
